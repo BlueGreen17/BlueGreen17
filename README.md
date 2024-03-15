@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlueGreen17 aka Ananta Walli
-- 👀 I’m interested in a variety of fields like CyberSecurity, Cloud Computing and Data Science and Artificial Intelligence.
+- 👀 I’m interested in a variety of fields like CyberSecurity, Artificial Intelligence, Machine Learning.
 - 🌱 I’m currently learning Cybersecurity and Machine Learning
 - 📫 How to reach me: You can reach me at email: anantaaa320@gmail.com or via my linkedin profile:linkedin.com/in/ananta-walli-34a437126/
   
